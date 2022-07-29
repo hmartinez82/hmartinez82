@@ -2,7 +2,7 @@
 
 ###### The name is Hernan Martinez.
 
-###### I'm a C# developer during the day and an Windows on ARM enthusiast at night.
+###### I'm a C# developer during the day and a Windows on ARM enthusiast at night.
 ###### On the hunt to help projects getting compiled for ARM64 on Windows. MSVC or MSYS2/MINGW based.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hmartinez82&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
