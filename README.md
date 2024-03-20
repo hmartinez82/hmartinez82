@@ -1,6 +1,7 @@
 ### Hi there 👋
-
 #### The name is Hernan Martinez.
+
+[![Hernan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmartinez82&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I'm a C++ and C# developer during the day and a Windows on ARM enthusiast at night.
 #### On the hunt to help projects getting compiled for ARM64 on Windows. MSVC or MSYS2/MINGW based.
