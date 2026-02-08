@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * 0"}]
   workflow_dispatch:
   push: {branches: ["main"]}
 jobs:
@@ -24,8 +24,6 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_colors: rainbow
           plugin_languages_limit: 4
-          plugin_lines: yes
-          plugin_lines_sections: base, repositories
           plugin_repositories: yes
           plugin_repositories_featured: msys2/MINGW-packages
           plugin_repositories_affiliations: owner, collaborator
